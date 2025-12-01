@@ -1,0 +1,76 @@
+.todoContainer{
+    background-color: skyblue;
+    height: 100vh;
+    background-size: cover;
+    font-family: "Roboto";
+    padding: 15px;
+}
+.mainHeading{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.taskCreate{
+    font-size: 32px;
+    font-weight: bold;
+
+}
+.createTask{
+    font-size: 32px;
+    font-weight: 500;
+    margin-left: 10px;
+
+}
+.inputstyle{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 7px;
+    width: 45vw;
+    height: 6vh;
+    padding: 5px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.buttonStyle{
+    margin-top: 10px;
+
+}
+.taskContainer{
+    margin-top:25px;
+}
+.taskStyle{
+    font-size: 32px;
+    font-weight: 500;
+   
+}
+.taskStyles{
+    font-size: 32px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+
+.checkboxStyle{
+    height: 4vh;
+    margin-top: 5px;
+    width: 3vw;
+}
+.labelStyle{
+    border-style: solid;
+    border-width: 1px;
+    background-color: orange;
+    border-width: 25px;
+    border-color: blue;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    width: 42vw;
+    height: 6vh;
+    border-radius: 6px;
+    font-size: 18px;
+    padding: 10px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+
+}
